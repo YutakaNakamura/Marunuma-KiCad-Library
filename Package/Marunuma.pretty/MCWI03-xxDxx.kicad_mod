@@ -1,4 +1,4 @@
-(footprint "MCWI03-12D15" (version 20221018) (generator pcbnew)
+(footprint "MCWI03-xxDxx" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (tags "MCWI03")
   (attr through_hole)
